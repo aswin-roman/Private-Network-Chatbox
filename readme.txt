@@ -4,7 +4,7 @@ The chatbox is designed to work on private local networks as long as you have al
 The application is developed with very basic understanding of Socket Programming.
 I have used Socket module for Socket Programming and Tkinter for GUI.
 
-The application is defined in to parts 
+The application is defined in two parts :
   1.Server Part
   2.Client part
   
